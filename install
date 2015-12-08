@@ -1,0 +1,6 @@
+#!/bin/bash
+# Install script
+# /pi/install : install a piget module
+# /system/install : install a apt-get package
+# /do/nginx/authorize : give the right to the web server to use a command
+
